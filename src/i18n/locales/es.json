@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "badge": "Front-End Engineer",
+    "title": "Creando experiencias web auténticas.",
+    "desc": "Apasionada por transformar ideas complejas en interfaces fluidas, interactivas e impactantes. La intersección donde la ingeniería se encuentra con el arte.",
+    "cta": "Ver Portafolio",
+    "spinText": "FRONT-END • DESIGN SYSTEM • CRAFT •",
+    "years": "años"
+  },
+  "about": {
+    "title1": "Ingeniería y",
+    "title2": "Diseño",
+    "desc": "Soy desarrollador front-end y también estoy en ambos lados de la cámara, trabajo como modelo y en la creación de contenido. Esto cambió mi forma de pensar en las interfaces: comencé a notar cómo las personas realmente miran una pantalla antes de decidir si se quedan o se van. Hoy, diseño e implemento.",
+    "quote": "El rendimiento de un sistema no debe comprometer su belleza, ni la estética debe perjudicar la fluidez funcional.",
+    "skillsTitle": "Habilidades Técnicas",
+    "skillsLang": "Lenguajes",
+    "skillsEcosystem": "Ecosistema",
+    "skillsTools": "Herramientas",
+    "skillsUX": "Experiencia de Usuario",
+    "certificationsBtn": "Ver Certificaciones"
+  },
+  "work": {
+    "title1": "Proyectos",
+    "title2": "Destacados",
+    "desc": "Estos son los proyectos donde hice tanto el diseño como la implementación. Me gusta este formato porque las decisiones visuales no terminan antes de que comience el código: muchas cosas solo quedan claras cuando veo la interfaz funcionando realmente, y ahí ajusto. No hay una etapa cerrada esperando que otra persona ejecute: es todo la misma persona decidiendo, desde el primer boceto hasta el resultado final.",
+    "explore": "Explorar"
+  },
+  "personalProjects": {
+    "title1": "Proyectos",
+    "title2": "Personales",
+    "desc": "Mi trabajo más allá del código. Aquí comparto mis pasiones y vivencias desde el otro lado de la cámara, desde el modelaje y la influencia digital hasta la cultura que me inspira cada día."
+  },
+  "contact": {
+    "title1": "¿Vamos a crear algo",
+    "title2": "juntos?",
+    "subtitle": "Siéntete libre de enviarme un mensaje."
+  },
+  "footer": {
+    "copy": "© Rafaela Geovana. Hecho con React, HTML y CSS."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "badge": "Front-End Engineer",
+    "title": "Criando experiências web autênticas.",
+    "desc": "Apaixonada por transformar ideias complexas em interfaces fluidas, interativas e impactantes. A interseção onde a engenharia encontra a arte.",
+    "cta": "Ver Portfólio",
+    "spinText": "FRONT-END • DESIGN SYSTEM • CRAFT •",
+    "years": "anos"
+  },
+  "about": {
+    "title1": "Engenharia e",
+    "title2": "Design",
+    "desc": "Sou desenvolvedor front-end e também estou dos dois lados da câmera, trabalho com modelo e criação de conteúdo. Isso mudou como eu penso interface: passei a reparar em como as pessoas realmente olham para uma tela antes de decidir se ficam ou saem. Hoje eu desenho e implemento.",
+    "quote": "A performance de um sistema não deve comprometer sua beleza, nem a estética deve prejudicar a fluidez funcional.",
+    "skillsTitle": "Habilidades Técnicas",
+    "skillsLang": "Linguagens",
+    "skillsEcosystem": "Ecosystem",
+    "skillsTools": "Tools",
+    "skillsUX": "Experiência de Usuário",
+    "certificationsBtn": "Ver Certificações"
+  },
+  "work": {
+    "title1": "Projetos em",
+    "title2": "Destaque",
+    "desc": "Esses são os projetos onde fiz o design e também a implementação. Gosto desse formato porque as decisões visuais não terminam antes do código começar: muita coisa só fica clara quando vejo a interface funcionando de verdade, e aí ajusto. Não existe uma etapa fechada esperando outra pessoa executar: é tudo a mesma pessoa decidindo, do primeiro rascunho até o resultado final.",
+    "explore": "Explorar"
+  },
+  "personalProjects": {
+    "title1": "Projetos",
+    "title2": "Pessoais",
+    "desc": "Meu trabalho além do código. Aqui compartilho minhas paixões e vivências do outro lado da câmera, desde trabalhos como modelo e influenciadora até a cultura que me inspira todos os dias."
+  },
+  "contact": {
+    "title1": "Vamos criar algo",
+    "title2": "juntos?",
+    "subtitle": "Sinta-se à vontade para me mandar uma mensagem."
+  },
+  "footer": {
+    "copy": "© Rafaela Geovana. Feito com React, HTML e CSS."
+  }
+}

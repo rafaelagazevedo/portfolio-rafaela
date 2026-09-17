@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Front-End Engineer",
+    "title": "Crafting authentic web experiences.",
+    "desc": "Passionate about transforming complex ideas into fluid, interactive, and impactful interfaces. The intersection where engineering meets art.",
+    "cta": "View Portfolio",
+    "spinText": "FRONT-END • DESIGN SYSTEM • CRAFT •",
+    "years": "years"
+  },
+  "about": {
+    "title1": "Engineering and",
+    "title2": "Design",
+    "desc": "I am a front-end developer and I am also on both sides of the camera, working as a model and content creator. This changed how I think about interfaces: I started noticing how people actually look at a screen before deciding whether they stay or leave. Today, I design and implement.",
+    "quote": "The performance of a system shouldn't compromise its beauty, nor should aesthetics hinder functional fluidity.",
+    "skillsTitle": "Technical Skills",
+    "skillsLang": "Languages",
+    "skillsEcosystem": "Ecosystem",
+    "skillsTools": "Tools",
+    "skillsUX": "User Experience",
+    "certificationsBtn": "View Certifications"
+  },
+  "work": {
+    "title1": "Featured",
+    "title2": "Projects",
+    "desc": "These are the projects where I did both the design and the implementation. I like this format because visual decisions don't end before the code begins: many things only become clear when I see the interface actually working, and then I adjust. There is no closed stage waiting for someone else to execute: it's all the same person deciding, from the first sketch to the final result.",
+    "explore": "Explore"
+  },
+  "personalProjects": {
+    "title1": "Personal",
+    "title2": "Projects",
+    "desc": "My work beyond the code. Here I share my passions and experiences from the other side of the camera, from modeling and digital influence to the culture that inspires me every day."
+  },
+  "contact": {
+    "title1": "Let's create something",
+    "title2": "together?",
+    "subtitle": "Feel free to send me a message."
+  },
+  "footer": {
+    "copy": "© Rafaela Geovana. Made with React, HTML and CSS."
+  }
+}
