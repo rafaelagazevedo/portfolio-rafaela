@@ -302,6 +302,9 @@ h1, h2, h3, .logo {
   padding-top: var(--space-4xl);
   position: relative;
 }
+@media (max-width: 768px) {
+  .hero { padding-top: calc(var(--space-4xl) + 80px); }
+}
 
 /* Ambient Glow */
 .hero-ambient-top {
