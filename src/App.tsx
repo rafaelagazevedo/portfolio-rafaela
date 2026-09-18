@@ -3,8 +3,7 @@ import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { TextPlugin } from 'gsap/TextPlugin';
 
-import { FaReact, FaNodeJs, FaFigma, FaGithub, FaLinkedin, FaWhatsapp, FaHtml5, FaCss3Alt, FaJs } from 'react-icons/fa';
-import { SiNextdotjs, SiTypescript, SiTailwindcss } from 'react-icons/si';
+import { FaReact, FaFigma, FaGithub, FaLinkedin, FaWhatsapp, FaHtml5, FaCss3Alt, FaJs } from 'react-icons/fa';
 import { MdEmail } from 'react-icons/md';
 import { useTranslation } from 'react-i18next';
 gsap.registerPlugin(ScrollTrigger, TextPlugin);
@@ -313,22 +312,6 @@ const About = () => {
             <div className="pill-badge badge-float-3">
               <FaReact className="stack-icon" color="#61DAFB" />
               <span className="text">React</span>
-            </div>
-            <div className="pill-badge badge-float-4">
-              <SiNextdotjs className="stack-icon" color="#000000" />
-              <span className="text">Next.js</span>
-            </div>
-            <div className="pill-badge badge-float-2">
-              <SiTypescript className="stack-icon" color="#3178C6" />
-              <span className="text">TypeScript</span>
-            </div>
-            <div className="pill-badge badge-float-1">
-              <FaNodeJs className="stack-icon" color="#339933" />
-              <span className="text">Node.js</span>
-            </div>
-            <div className="pill-badge badge-float-3">
-              <SiTailwindcss className="stack-icon" color="#06B6D4" />
-              <span className="text">Tailwind</span>
             </div>
             <div className="pill-badge badge-float-4">
               <FaFigma className="stack-icon" color="#F24E1E" />
